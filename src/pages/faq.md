@@ -76,17 +76,21 @@ If you have any feedback on how we can improve the tournament in the future, ple
 
 #### What is my 'Signal Strength'?
 
-Consider it like an XP bar for your involvement with Off the Dial. You earn 100 points for each tournament you participate in, and can earn up to 100 more depending on your placement.
+Consider it like an XP bar for your involvement with Off the Dial. Here's how you earn points
+- 100 points for playing in the tournament
+- Up to an additional 100 points based on placement in the Preliminaries
+- Placement points in the top cut
+  - +25 points for 3rd
+  - +50 points for 2nd
+  - +100 points for 1st
+
+This means the total amount of signal strength you can potentially earn in one tournament is 300 points.
 
 There's also roles for <Mention>@Signal Strength: 1000+</Mention> and <Mention>@Signal Strength: 5000+</Mention> if you want a meaningless amount of pointless clout, good luck!
 
 #### Who (and what) are the All Stars?
 
 The All Stars includes anyone who has over 1000 Signal Strength. If you're an All Star, you're automatically invited into the IDTGA All Stars Inivitational!
-
-#### Why organization spelled with an 's'?
-
-This is an international server, some of us are part of Australia and EU, which spell certain words slightly differently, namely 'organisation'.
 
 #### Are tournaments streamed?
 
