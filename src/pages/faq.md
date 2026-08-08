@@ -96,14 +96,6 @@ Yes, one match from each round in the highest skill division will be streamed. T
 
 When in doubt, use <Mention>#helpdesk</Mention>. Optionally, you can use <Mention>#tourney-helpdesk</Mention> for tournament-related questions.
 
-During the tournament, if there is a match dispute or any conflict, please use the "Call a Moderator" feature on start.gg.
-
-You may also DM either Head Organiser about it.
-
-#### I need help using start.gg, where can I get it?
-
-If no staff is able to answer your question in <Mention>#helpdesk</Mention>, you can contact [start.gg](https://help.start.gg/) directly on their website or using their discord.
-
 #### Am I allowed to scrim other teams competing in the tournament?
 
 We're completely fine with you setting up scrims with other competing teams. Just remember to be respectful!
